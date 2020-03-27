@@ -1,2 +1,2 @@
 rm data/*.manifest
-node version_generator.js -v 1.0.1 -u https://raw.githubusercontent.com/nimabi8984/solitaire-brueau/main/data/ -s data -d data
+node version_generator.js -v 1.0.1 -u https://raw.githubusercontent.com/nimabi8984/solitaire-main-bureau/master/data/ -s data -d data
